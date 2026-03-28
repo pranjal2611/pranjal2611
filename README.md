@@ -1,12 +1,9 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:7c3aed&height=200&section=header&text=Pranjal%20Pandey&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descColor=ffffff&animation=fadeIn" width="100%"/>
-
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%E2%80%94+AI+%26+Machine+Learning;Building+Real-World+Impactful+Projects;DSA+%2B+Development+%2B+AI+Combo;Future+Software+Company+Founder+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%E2%80%94+AI+%26+Machine+Learning;Building+Real-World+Impactful+Projects;DSA+%2B+Development+%2B+AI+Combo;Think+,+Code+,+Grind+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -100,11 +97,6 @@ pranjal = {
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=pranjal2611&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjal2611&layout=compact&theme=tokyonight&border_radius=10&hide_border=false" height="165"/>
-
 </div>
 
 <div align="center">
